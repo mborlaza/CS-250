@@ -1,0 +1,15 @@
+1) No exception safety, basic exception safety, strong exception safety, and 
+   no-throw exception safety.
+
+2) You can have multiple catch blocks, each handling a different type of exception.
+
+3) domain_error
+   invalid_argument
+   length_error
+   out_of_range
+   future_error
+
+4) range_error
+   overflow_error
+   underflow_error
+   system_error
